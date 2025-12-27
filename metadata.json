@@ -1,0 +1,7 @@
+{
+  "name": "Snap Insta Downloader",
+  "description": "The ultimate viral toolkit for Instagram users: download media, generate aesthetic bios, calculate engagement, and manage your creator profile with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
